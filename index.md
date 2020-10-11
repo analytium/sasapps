@@ -132,11 +132,12 @@ header: ![h:6em](https://sasjs.io/img/js-logo700x389.png)
 * Modernisation of legacy [AF/SCL desktop apps to Viya](https://sasapps.io/modernising-legacy-sas-scl-af-applications)
 
 ---
-<!-- header: ![h:8em](https://sasapps.io/img/sas-apps.png) -->
+<!-- header: ![h:7em](https://sasapps.io/img/sas-apps.png) -->
 
 ## More info - Data Controller
 * Customer feedback - https://datacontroller.io/category/use-cases
 * Documentation - https://docs.datacontroller.io
+* Explainer - https://www.youtube.com/watch?v=iY3KQZL4ok0
 
 ## More info - SAS JS
 * Website:  https://sasjs.io
