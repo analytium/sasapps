@@ -3,7 +3,7 @@
 To deploy:
 
 ```
-npx @marp-team/marp-cli slide-deck.md
+npx @marp-team/marp-cli index.md
 ```
 
 Based on the marp plugin for vs code
