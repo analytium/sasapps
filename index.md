@@ -19,16 +19,16 @@ paginate: true
 # Who Are We?
 
 * [Analytium Group](https://analytium.co.uk) - SAS and Microsoft Partner
-* Three divisions - Platform, Consulting, SAS Apps
+* Three divisions - Platform, Consulting, [SAS Apps](https://sasapps.io)
 * Customers in UK, Belgium, Switzerland, Germany
 
-![bg right:33% height:350 ](https://datacontroller.io/wp-content/uploads/2020/10/abow.png)
+![bg right:33% height:300 ](https://datacontroller.io/wp-content/uploads/2020/10/abow.png)
 
 ---
 # Community Contributions
 
 * [Sasensei](https://sasensei.com)
-* SAS User Groups (UK&I, BeLux, Germany, Poland)
+* SAS User Groups ([UK&I](https://www.meetup.com/SUGUKI), [BeLux](https://www.meetup.com/BeLux-SAS-User-Group/), [Germany](https://sasusergroup.de/), [Poland](https://communities.sas.com/t5/Polish-SAS-Users-Group/gh-p/POLSUG))
 * [SASjs](https://sasjs.io) Framework
 
 ---
@@ -61,9 +61,9 @@ header: ![h:6em](https://docs.datacontroller.io/img/datacontroller.png)
 
 | Security | Mutation | Bureaucracy |
 |:--------|:--------|:-----------|
-|  Source - _eliminate shared drives_ |  Source Model - _issues identified prior to batch runs_  |  Engagement - _eliminated_ |
-|  Target - _eliminate direct DB writes_ |  Target Model - _changes handled automatically_  |   Delivery - _eliminated_ |
-|   Roles - _group based permissions_  |  Values - _bad quality rejected at source_ |   Support - _eliminated_  |
+|  Target Table - _eliminate direct DB writes_ |  Source Model - _dynamic extracts_  |  Engagement - _eliminated_ |
+|  Source File - _eliminate shared drive_ |Bad Values - _rejected at source_ |   Delivery - _eliminated_ |
+|History - _who changed what_  |Target Model - _dynamic delivery_  |   Support - _eliminated_  |
 ---
 
 # Customer Benefits
@@ -129,4 +129,15 @@ header: ![h:6em](https://sasjs.io/img/js-logo700x389.png)
 
 * Hyper Customisation of SAS to fit bespoke Customer needs
 * Migration of SAS 9 STP-driven applications (or prompts) to Viya
-* Modernisation of legacy AF/SCL desktop apps to Viya
+* Modernisation of legacy [AF/SCL desktop apps to Viya](https://sasapps.io/modernising-legacy-sas-scl-af-applications)
+
+---
+<!-- header: ![h:8em](https://sasapps.io/img/sas-apps.png) -->
+
+## More info - Data Controller
+* Customer feedback - https://datacontroller.io/category/use-cases
+* Documentation - https://docs.datacontroller.io
+
+## More info - SAS JS
+* Website:  https://sasjs.io
+* Github: https://github.com/sasjs
